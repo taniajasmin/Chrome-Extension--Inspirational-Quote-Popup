@@ -64,16 +64,16 @@ Better long-term options:
 
 ## Security & Privacy Notes
 
-The extension sends up to ~2000 characters of page text to Google's Gemini API
-Avoid using on pages with sensitive/private information
-No data is stored or sent anywhere else
+- The extension sends up to ~2000 characters of page text to Google's Gemini API
+- Avoid using on pages with sensitive/private information
+- No data is stored or sent anywhere else
 
 ## Future Improvement Ideas
 
-Custom quote styles (intense, calm, sarcastic, stoic…)
-Save / favorite quotes
-Optional daily motivation notifications
-Dark mode for popup
-Better context (page title + meta description + main headings)
-Support for other models (OpenAI, Groq, local WebLLM…)
-First-time setup flow for API key
+- Custom quote styles (intense, calm, sarcastic, stoic…)
+- Save / favorite quotes
+- Optional daily motivation notifications
+- Dark mode for popup
+- Better context (page title + meta description + main headings)
+- Support for other models (OpenAI, Groq, local WebLLM…)
+- First-time setup flow for API key
