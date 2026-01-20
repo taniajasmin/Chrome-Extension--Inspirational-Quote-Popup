@@ -61,13 +61,14 @@ Better long-term options:
 ├── styles.css          # Popup styling
 └── icons/              # Extension icons (16×16, 48×48, 128×128)
 ```
-Security & Privacy Notes
+
+## Security & Privacy Notes
 
 The extension sends up to ~2000 characters of page text to Google's Gemini API
 Avoid using on pages with sensitive/private information
 No data is stored or sent anywhere else
 
-Future Improvement Ideas
+## Future Improvement Ideas
 
 Custom quote styles (intense, calm, sarcastic, stoic…)
 Save / favorite quotes
